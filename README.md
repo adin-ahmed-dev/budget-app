@@ -21,7 +21,7 @@ A simple Python budget app. You create spending categories (Food, Clothing, Auto
 ## How to run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/budget-app.git
+git clone https://github.com/adin-ahmed-dev/budget-app.git
 cd budget-app
 python budget.py
 ```
